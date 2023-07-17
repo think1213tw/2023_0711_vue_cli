@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  data () {
+  data() {
     return {
       title: '卡片元件'
     }
